@@ -1,7 +1,7 @@
 
 # Singleton Scope:
 
-![Hello World](Images\Singleton-Scope.PNG)
+![World](Singleton-Scope.PNG)
 	
 - Whenever we annotate a class with @Component its by default scope in Singleton and it will be eagerly intialized
 
@@ -18,7 +18,7 @@
 ```
 # Prototype Scope
 
-![Hello World](Images\Prototype-Scope.PNG)
+![Hello](Prototype-Scope.PNG)
 
 - whenever we we annotate a class with @Component and if we use top of class i,e
 
