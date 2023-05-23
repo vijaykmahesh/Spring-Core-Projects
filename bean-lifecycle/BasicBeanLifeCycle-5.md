@@ -57,8 +57,7 @@
 		}
 ```
 		
-- java way of closing container i,e instruct JVM that hey JVM whenever u shutdown that tym 
-- when container is not closed please destroy it.
+- java way of closing container i,e instruct JVM that hey JVM whenever u shutdown that tym close container.
 		
 ```java
 		AnnotationConfigApplicationContext container = new AnnotationConfigApplicationContext(AppConfig.class);
